@@ -1,0 +1,23 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shiven655/npm-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shiven655/npm-test/issues"
+  },
+  "homepage": "https://github.com/Shiven655/npm-test#readme",
+  "dependencies": {
+    "ladash": "^1.2.0",
+    "moment": "^2.29.1"
+  }
+}
